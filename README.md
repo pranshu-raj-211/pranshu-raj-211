@@ -1,20 +1,27 @@
-### Hi there 👋
+# Hi there 👋  
+I'm **Pranshu Raj**, a junior at **IIIT Gwalior** pursuing **B.Tech in Computer Science**.  
 
-I'm Pranshu Raj, a sophomore at IIIT Gwalior pursuing B.Tech in Computer Science. 
-<!--
-**pranshu-raj-211/pranshu-raj-211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love solving challenging problems, building systems from the ground up, and optimizing them for real-world performance. Backend development is where I thrive, but I'm always open to exploring cool technologies that catch my attention.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on a Reinforcement Learning agent for playing games
-- 🌱 I’m currently learning MLOPS and improving my python knowledge
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/pranshuraj2004/)  [pranshuraj65536@gmail.com](mailto:pranshuraj65536@gmail.com)
+## 🌟 About Me  
+- 🔭 **What I’m Working On**:  
+  Building systems that actually do something useful. Currently focused on creating **data pipelines, search engines** and **recommendation engines** that solve real business problems.  
+- 🌱 **What I’m Learning**:  
+  - MLOps—because getting ML models to production is more fun than training them.  
+  - Scaling backend systems for performance and reliability.
+  - Building streaming data workflows. I really love working with data.
+- 💻 **Stuff I've Built**:  
+  - A **multi-agent system** for recommending user profiles based on business needs, using **OpenAI APIs**, **MongoDB**, and **Docker**.
+  - A basic chess engine to with adversarial search algorithms and optimizations like Zobrist hashing, move ordering heuristics.  
+- 📫 **How to Reach Me**:  
+  - **LinkedIn**: [Pranshu Raj](https://linkedin.com/in/pranshuraj2004)  
+  - **Email**: [pranshuraj65536@gmail.com](mailto:pranshuraj65536@gmail.com) 
+
+---
+
+## 🚀 Skills  
+- **Programming Languages**: Python, C# 
+- **Technologies**: Docker, Kafka  
+- **Tools & Frameworks**: FastAPI, Github Actions, Airflow, MongoDB  
