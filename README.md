@@ -8,7 +8,8 @@ I love solving complex problems, designing scalable systems, and optimizing them
 ## **🚀 What I’m Working On**  
 - **Building real-world systems** – data pipelines, search engines, and recommendation engines that solve actual business problems.  
 - **Exploring real-time data movement** – batch, microbatch, and streaming systems using pub/sub architectures.  
-- **Optimizing for performance & scale** – designing backends that handle high-throughput workloads efficiently.  
+- **Optimizing for performance & scale** – designing backends that handle high-throughput workloads efficiently.
+- Creating a simplified open source version of Lichess.
 
 ---
 
@@ -26,12 +27,15 @@ I love solving complex problems, designing scalable systems, and optimizing them
 ---
 
 ## **💡 Tech Stack**  
-### **Languages:** Python, Java, Go  
-### **Tools & Platforms:** Docker, AWS, Airflow, Redis, GitHub Actions  
-### **Frameworks & Libraries:** FastAPI, gRPC, OpenAI APIs, MongoDB, PostgreSQL  
+### **Languages:** Python, Go  
+### **Tools & Platforms:** Docker, AWS, Airflow, GitHub Actions, Kafka  
+### **Frameworks & Libraries:** FastAPI, OpenAI APIs
+### **Databases:** MongoDB, PostgreSQL, Redis
 
 ---
 
 ## **📫 Connect With Me**  
 🔗 [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
 📧 [Email](mailto:pranshuraj65536@gmail.com)  
+
+P.S. : Check out my [blog](https://pranshu-raj-211.github.io/).
