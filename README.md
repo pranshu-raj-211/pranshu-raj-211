@@ -1,7 +1,7 @@
-# **Hi there! 👋**  
-I’m Pranshu, a junior at IIIT Gwalior pursuing a B.Tech in Computer Science.  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!)](https://git.io/typing-svg)
+I’m Pranshu, a junior at IIIT Gwalior pursuing a Bachelors Degree in Computer Science.  
 
-I love solving complex problems, designing scalable systems, and optimizing them for real-world performance. My focus is on backend engineering, distributed systems, and high-performance computing, but I’m always exploring new tech that catches my interest.  
+I love solving complex problems, designing scalable systems, and optimizing them for real-world performance. My focus is on backend engineering, distributed systems and devops, but I’m always exploring new tech that catches my interest.  
 
 ---
 
