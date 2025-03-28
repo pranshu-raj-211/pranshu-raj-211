@@ -40,5 +40,6 @@ I love solving complex problems, designing scalable systems, and optimizing them
 ## **📫 Connect With Me**  
 🔗 [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
 📧 [Email](mailto:pranshuraj65536@gmail.com)  
+   [Portfolio](http://pranshu-raj.me/)
 
-P.S. : Check out my [blog](http://pranshu-raj.me/).
+P.S. : Check out my [blog](https://pranshu-raj-211.github.io/).
