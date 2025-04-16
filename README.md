@@ -1,45 +1,63 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!)](https://git.io/typing-svg)
 
-I’m Pranshu, a junior at IIIT Gwalior pursuing a Bachelors Degree in Computer Science.  
+# 👋 Hey, I'm Pranshu
 
-I love solving complex problems, designing scalable systems, and optimizing them for real-world performance. My focus is on backend engineering, distributed systems and devops, but I’m always exploring new tech that catches my interest.  
+I build real-time systems, intelligent agents, and infrastructure that scales.
 
----
 
-## **🚀 What I’m Working On**  
-- **Building real-world systems** – data pipelines, search engines, and recommendation engines that solve business problems.  
-- **Exploring real-time data movement** – batch, microbatch, and streaming systems along with Apache Kafka.  
-- **Optimizing for performance & scale** – designing backends that handle high-throughput workloads efficiently.
-- Creating a simplified open source version of Lichess (I plan on calling it tinychess).
+I'm currently focused on:
+- ⚡ Real-time systems: websockets, pub/sub, distributed backends
+- ♟️ A tiny open-source Lichess clone — local-first, scalable, and minimal
 
 ---
 
-## **📖 What I’m Learning**  
-- Go - It's interesting, much more performant than Python. I'll be working on scaling backend servers in this, go has a great ecosystem.
-- **On-Demand Compute & Scaling** – spinning up and managing workloads dynamically using Kubernetes.  
-- **Real-Time Systems** – scaling websockets and sse, I'm currently trying to horizontally scale them using HAproxy and doing perf on it.  
-- **Efficient Storage & Indexing** – working with databases like PostgreSQL, MongoDB, and Redis. I'm also improving my data modeling knowledge.  
+## 🧠 Learning + Deep Work
+
+- Diving deep into how Lichess works — game servers, move validation, and scaling multiplayer chess
+- Exploring ML inference infra — model servers, autoscaling, request batching
+- Studying database internals — data modeling, indexing, replication
 
 ---
 
-## **🛠 Stuff I’ve Built**  
-- **Multi-Agent Recommendation System** – Used OpenAI APIs, MongoDB vector search, and Docker to recommend user profiles.     
-- **Forex Trading Alerts System** – Designed a system using Python and GCP Pub/Sub to detect market trends and send trade signals.
-- **RAG pipelines** - Various kinds, I liked working on taking unstructured documents and extracting actionable insights, using non deterministic behaviour of LLMs to do more than what's normally possible.
+## 🚀 Projects I've worked on
+- **AI Research Assistant**  
+  Turn research papers into structured insights using local LLMs, vector search, and semantic chunking.  
+  _Tech:_ Python, Ollama, MongoDB, FastAPI
+
+- **Real-Time Leaderboard Engine**  
+  Matchmaking + scoring using Go, Redis pub/sub, and Kubernetes. Built for low-latency, high-concurrency use.  
+  _Tech:_ Go, Redis, Prometheus, HAProxy
+
+- **Multi-Agent Recommender System**  
+  Recommend users to users using OpenAI agents, MongoDB vector search, and intelligent prompts.  
+  _Tech:_ OpenAI API, Docker, AWS, FastAPI
+
+- **Forex Trading Bot**  
+  Streaming market data + trade signals using Python & GCP Pub/Sub.  
+  _Tech:_ Python, Pub/Sub, Telegram
 
 ---
 
-## **💡 Tech Stack**  
-### **Languages:** Python, Go  
-### **Tools & Platforms:** Docker, AWS, Airflow, GitHub Actions, Kafka  
-### **Frameworks & Libraries:** FastAPI, OpenAI APIs, Pytorch
-### **Databases:** MongoDB, PostgreSQL, Redis
+## 🧰 Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+
+Others: Airflow, Github Actions, Kafka, AWS, Pytorch, Postgres
 
 ---
 
 ## **📫 Connect With Me**  
-🔗 [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
-📧 [Email](mailto:pranshuraj65536@gmail.com)  
-   [Portfolio](http://pranshu-raj.me/)
 
-P.S. : Check out my [blog](https://pranshu-raj-211.github.io/).
+I write about building AI tools, scaling real-time systems, and going from toy projects to production-grade systems.
+
+📘 [Blog](https://pranshu-raj-211.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
+📬 [Email](mailto:pranshuraj65536@gmail.com)  
+🐦 [Twitter](https://twitter.com/seigino99707047)  
+🔗  [Portfolio](http://pranshu-raj.me/)
