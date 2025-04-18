@@ -9,6 +9,9 @@ I'm currently focused on:
 - ⚡ Real-time systems: websockets, pub/sub, distributed backends
 - ♟️ A tiny open-source Lichess clone — local-first, scalable, and minimal
 
+
+Recently released [concall-parser](https://pypi.org/project/concall-parser/), a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/).
+
 ---
 
 ## 🧠 Learning + Deep Work
