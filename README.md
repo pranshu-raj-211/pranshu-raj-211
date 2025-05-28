@@ -28,16 +28,20 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
   _Tech:_ Python, Ollama, MongoDB, FastAPI
 
 - **Real-Time Leaderboard Engine**  
-  Matchmaking + scoring using Go, Redis pub/sub, and Kubernetes. Built for low-latency, high-concurrency use.  
-  _Tech:_ Go, Redis, Prometheus, HAProxy
+  Matchmaking + scoring using Go, Redis, and Docker. Built for low-latency, high-concurrency use.  
+  _Tech:_ Go, Redis, Prometheus, Docker
 
 - **Multi-Agent Recommender System**  
   Recommend users to users using OpenAI agents, MongoDB vector search, and intelligent prompts.  
   _Tech:_ OpenAI API, Docker, AWS, FastAPI
 
-- **Forex Trading Bot**  
+- **Forex Trading Bot**  (Currently undergoing refactoring, previous design was terrible)
   Streaming market data + trade signals using Python & GCP Pub/Sub.  
-  _Tech:_ Python, Pub/Sub, Telegram
+  _Tech:_ Python, Pub/Sub, Docker, Dash
+
+- **Web Scraping** (Multiple projects)
+  Built scrapers to fetch jobs from indeed and YCombinator, to match against a resume reducing time spent searching for jobs.
+  _Tech:_ Python, Taipy, BeautifulSoup, Selenium
 
 ---
 
@@ -51,7 +55,7 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
 
-Others: Airflow, Github Actions, Kafka, AWS, Pytorch, Postgres
+Others: Airflow, Github Actions, AWS, Pytorch
 
 ---
 
