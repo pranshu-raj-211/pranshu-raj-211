@@ -62,7 +62,7 @@ Others: Airflow, Github Actions, AWS, Pytorch
 
 I write about building AI tools, scaling real-time systems, and going from toy projects to production-grade systems.
 
-📘 [Blog](https://pranshu-raj-211.github.io/)  
+📘 [Blog](https://blog.pranshu-raj.me/)  
 💼 [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
 📬 [Email](mailto:pranshuraj65536@gmail.com)  
 🐦 [Twitter](https://twitter.com/seigino99707047)  
