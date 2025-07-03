@@ -32,7 +32,7 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
   _Tech:_ Go, Redis, Prometheus, Docker
 
 - **Multi-Agent Recommender System**  
-  Recommend users to users using OpenAI agents, MongoDB vector search, and intelligent prompts.  
+  Recommend users to users using OpenAI agents, MongoDB search, and query expansion.  
   _Tech:_ OpenAI API, Docker, AWS, FastAPI
 
 - **Forex Trading Bot**  (Currently undergoing refactoring, previous design was terrible)
@@ -47,20 +47,29 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
 
 ## 🧰 Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+### Proficient & Daily Use
+- **Languages**: Python, Go
+- **Backend**: FastAPI, Celery
+- **Databases**: MongoDB, Redis
+- **Cloud & DevOps**: AWS, Docker
+- **Tools**: Git, Linux
 
-Others: Airflow, Github Actions, AWS, Pytorch
+### Experienced & Comfortable
+- **Backend**: Gin
+- **Cloud**: GCP, GitHub Actions
+- **ML/Data**: PyTorch, Keras, Weights & Biases, Scikit-learn, SpaCy
+- **Monitoring**: Prometheus, Grafana
+
+### Used a couple times
+- **Data Pipelines**: Apache Airflow, Apache Kafka
+- **Databases**: Elasticsearch, PostgreSQL
+- **ML Tools**: PyTorch Geometric, Tensorflow
 
 ---
 
 ## **📫 Connect With Me**  
 
-I write about building AI tools, scaling real-time systems, and going from toy projects to production-grade systems.
+I write about building AI tools, scaling real-time systems, and the innumerable sidequests I do.
 
 📘 [Blog](https://blog.pranshu-raj.me/)  
 💼 [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
