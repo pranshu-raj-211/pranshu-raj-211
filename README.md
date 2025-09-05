@@ -13,6 +13,8 @@ I'm currently focused on:
 
 [Chcek out my blog](https://blog.pranshu-raj.me)
 
+Latest project blog: [Real time leaderboard with 28,232 concurrent SSE connections](https://blog.pranshu-raj.me/posts/implementing-correct-fanout/).
+
 Recent post on [optimizing Docker image builds for image size and build time](https://blog.pranshu-raj.me/posts/optimizing-docker-builds/)
 
 Recently released [concall-parser](https://pypi.org/project/concall-parser/), a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/).
