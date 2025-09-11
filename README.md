@@ -7,15 +7,17 @@ Previously worked with Python, Go, real time communication, infra, and productio
 
 
 I'm currently focused on:
-- Real-time systems: Building a scalable real-time leaderboard using SSE.
-- Scalable AI Products: Turning ML into usable software. Built and deployed voice AI agents, vector search, text to SQL services to production.
-- Systems Internals: Deep dives into how databases and observability works at a lower level.
+- Building a scalable real-time leaderboard using SSE.
+- Voice agent evals at work.
+- Diving deep into databases, contributing to open source.
 
-[Chcek out my blog](https://blog.pranshu-raj.me)
+[Check out my blog](https://blog.pranshu-raj.me)
 
-Latest project blog: [Real time leaderboard with 28,232 concurrent SSE connections](https://blog.pranshu-raj.me/posts/implementing-correct-fanout/).
-
-Recent post on [optimizing Docker image builds for image size and build time](https://blog.pranshu-raj.me/posts/optimizing-docker-builds/)
+#### Recent posts
+- [Real time leaderboard with 28,232 concurrent SSE connections](https://blog.pranshu-raj.me/posts/implementing-correct-fanout/)
+- [Optimizing Docker image builds for image size and build time](https://blog.pranshu-raj.me/posts/optimizing-docker-builds/)
+- [Building a python package to turn unstructured data into financial insights](https://blog.pranshu-raj.me/posts/building-concall-parser)
+- [Understanding Server Sent Events (SSE)](https://blog.pranshu-raj.me/posts/exploring-sse)
 
 Recently released [concall-parser](https://pypi.org/project/concall-parser/), a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/).
 
@@ -64,3 +66,6 @@ I write about building AI tools, scaling real-time systems, and the innumerable 
 - [Email](mailto:pranshuraj65536@gmail.com)  
 - [Twitter](https://twitter.com/seigino99707047)  
 - [Portfolio](http://pranshu-raj.me/)
+
+
+I keep a list of blogs and discussions I found interesting/learned from at [this post](https://blog.pranshu-raj.me/posts/interesting-blogs/).
