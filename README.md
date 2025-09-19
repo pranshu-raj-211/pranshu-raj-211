@@ -25,17 +25,20 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
 
 ## Projects I've worked on
 
-- **Real-Time Leaderboard**
+- [Real-Time Leaderboard](https://github.com/pranshu-raj-211/leaderboard)
+
   Send ranking updates to 28k+ concurrent SSE clients using Go, Redis Sorted Sets, and Prometheus.
   Optimized Docker images(48x size reduction, 46% build time reduced), structured logs, and system metrics for observability.
   Tech: Go, Redis, Prometheus, Docker, Grafana, PostgreSQL
 
-- **Multi-Agent Recommender System**
+- Multi-Agent Recommender System
+
   Built for a business-matching use case - uses OpenAI LLMs for DB query generation from natural language.
   FastAPI backend + MongoDB search with cron jobs to sync with Zapier tables.
   Tech: Python, FastAPI, MongoDB, Docker
 
-- Concall Parser (OSS Package)
+- [Concall Parser (OSS Package)](https://github.com/JS12540/concall-parser)
+
   Python package to extract structured data from earnings call transcripts using hybrid regex + LLM.
   480+ downloads. Built with test automation (pytest regressions) & CI on GitHub Actions.
   Tech: Python, LLMs, Regex, GitHub Actions
