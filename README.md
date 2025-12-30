@@ -1,25 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!)](https://git.io/typing-svg)
 
-# 👋 Hey, I'm Pranshu
+# Hey, I'm Pranshu
 
-I build backend systems that work at scale.
-Previously worked with Python, Go, real time communication, infra, and production ready AI products.
+I build backend systems and write.
+Previously worked on Python, Go, real time communication, infra, and AI.
 
 
 I'm currently focused on:
-- Building a scalable real-time leaderboard using SSE.
-- Voice agent evals at work.
-- Diving deep into databases, contributing to open source.
+- Building a LSM tree db.
+- Voice agent evals.
+- Memory and profiling.
 
 [Check out my blog](https://blog.pranshu-raj.me)
 
 #### Recent posts
+- [Getting to 150k conns on the real time leaderboard (Breaking the 28k barrier)](https://blog.pranshu-raj.me/posts/scaling-sse-1m-connections/)
 - [Real time leaderboard with 28,232 concurrent SSE connections](https://blog.pranshu-raj.me/posts/implementing-correct-fanout/)
 - [Optimizing Docker image builds for image size and build time](https://blog.pranshu-raj.me/posts/optimizing-docker-builds/)
 - [Building a python package to turn unstructured data into financial insights](https://blog.pranshu-raj.me/posts/building-concall-parser)
 - [Understanding Server Sent Events (SSE)](https://blog.pranshu-raj.me/posts/exploring-sse)
 
-Recently released [concall-parser](https://pypi.org/project/concall-parser/), a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/).
+Released [concall-parser](https://pypi.org/project/concall-parser/) a while ago, a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/). My writing journey started with the blog describing [why and how we built it](https://blog.pranshu-raj.me/posts/building-concall-parser).
 
 ---
 
@@ -43,6 +44,8 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
   480+ downloads. Built with test automation (pytest regressions) & CI on GitHub Actions.
   Tech: Python, LLMs, Regex, GitHub Actions
 
+There's other stuff that I've done - worked on durable executions, MCPs, memory and Docker optimizations.
+
 ---
 
 ## Tech Stack
@@ -54,6 +57,7 @@ Recently released [concall-parser](https://pypi.org/project/concall-parser/), a 
 - **Databases**: MongoDB, Redis, PostgreSQL
 
 ### Others (used less frequently)
+- **Languages**: Javascript
 - **ML/Data**: PyTorch, Keras, Weights & Biases, Scikit-learn, SpaCy, PyTorch Geometric, Tensorflow
 - **Data Pipelines**: Apache Airflow, Apache Kafka
 - **Databases**: Elasticsearch
