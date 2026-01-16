@@ -8,7 +8,7 @@ Previously worked on Python, Go, real time communication, infra, and AI.
 
 I'm currently focused on:
 - Building a LSM tree db.
-- Voice agent evals.
+- Evals.
 - Memory and profiling.
 
 [Check out my blog](https://blog.pranshu-raj.me)
@@ -59,8 +59,8 @@ There's other stuff that I've done - worked on durable executions, MCPs, memory 
 ### Others (used less frequently)
 - **Languages**: Javascript
 - **ML/Data**: PyTorch, Keras, Weights & Biases, Scikit-learn, SpaCy, PyTorch Geometric, Tensorflow
-- **Data Pipelines**: Apache Airflow, Apache Kafka
-- **Databases**: Elasticsearch
+- **Data Pipelines**: Airflow, Kafka
+- **Databases**: Cloudflare D1
 
 ---
 
