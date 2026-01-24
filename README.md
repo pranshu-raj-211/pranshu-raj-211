@@ -11,16 +11,16 @@ I'm currently focused on:
 - Evals.
 - Memory and profiling.
 
-[Check out my blog](https://blog.pranshu-raj.me)
+[Check out my blog](https://blog.pranshu-raj.in)
 
 #### Recent posts
-- [Getting to 150k conns on the real time leaderboard (Breaking the 28k barrier)](https://blog.pranshu-raj.me/posts/scaling-sse-1m-connections/)
-- [Real time leaderboard with 28,232 concurrent SSE connections](https://blog.pranshu-raj.me/posts/implementing-correct-fanout/)
-- [Optimizing Docker image builds for image size and build time](https://blog.pranshu-raj.me/posts/optimizing-docker-builds/)
-- [Building a python package to turn unstructured data into financial insights](https://blog.pranshu-raj.me/posts/building-concall-parser)
-- [Understanding Server Sent Events (SSE)](https://blog.pranshu-raj.me/posts/exploring-sse)
+- [Getting to 150k conns on the real time leaderboard (Breaking the 28k barrier)](https://blog.pranshu-raj.in/posts/scaling-sse-1m-connections/)
+- [Real time leaderboard with 28,232 concurrent SSE connections](https://blog.pranshu-raj.in/posts/implementing-correct-fanout/)
+- [Optimizing Docker image builds for image size and build time](https://blog.pranshu-raj.in/posts/optimizing-docker-builds/)
+- [Building a python package to turn unstructured data into financial insights](https://blog.pranshu-raj.in/posts/building-concall-parser)
+- [Understanding Server Sent Events (SSE)](https://blog.pranshu-raj.in/posts/exploring-sse)
 
-Released [concall-parser](https://pypi.org/project/concall-parser/) a while ago, a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/). My writing journey started with the blog describing [why and how we built it](https://blog.pranshu-raj.me/posts/building-concall-parser).
+Released [concall-parser](https://pypi.org/project/concall-parser/) a while ago, a python package to get structured features from earnings call reports. Made in collaboration with [Jay Shah](https://github.com/JS12540/). My writing journey started with the blog describing [why and how we built it](https://blog.pranshu-raj.in/posts/building-concall-parser).
 
 ---
 
@@ -68,11 +68,11 @@ There's other stuff that I've done - worked on durable executions, MCPs, memory 
 
 I write about building AI tools, scaling real-time systems, and the innumerable sidequests I do.
 
-- [Blog](https://blog.pranshu-raj.me/)  
+- [Blog](https://blog.pranshu-raj.in/)  
 - [LinkedIn](https://www.linkedin.com/in/pranshuraj2004/)  
 - [Email](mailto:pranshuraj65536@gmail.com)  
 - [Twitter](https://twitter.com/seigino99707047)  
-- [Portfolio](http://pranshu-raj.me/)
+- [Portfolio](http://pranshu-raj.in/)
 
 
-I keep a list of blogs and discussions I found interesting/learned from at [this post](https://blog.pranshu-raj.me/posts/interesting-blogs/).
+I keep a list of blogs and discussions I found interesting/learned from at [this post](https://blog.pranshu-raj.in/posts/interesting-blogs/).
