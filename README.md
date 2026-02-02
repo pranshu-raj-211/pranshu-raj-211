@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!)](https://git.io/typing-svg)
-
 # Hey, I'm Pranshu
 
 I build backend systems and write.
