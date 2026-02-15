@@ -3,6 +3,8 @@
 I build backend systems and write.
 Previously worked on Python, Go, real time communication, infra, and AI.
 
+I'm currently [looking for a new role](https://blog.pranshu-raj.in/hire-me/). Reach out if you've got something interesting.
+
 
 I'm currently focused on:
 - Building a LSM tree db.
@@ -30,11 +32,10 @@ Released [concall-parser](https://pypi.org/project/concall-parser/) a while ago,
   Optimized Docker images(48x size reduction, 46% build time reduced), structured logs, and system metrics for observability.
   Tech: Go, Redis, Prometheus, Docker, Grafana, PostgreSQL
 
-- Multi-Agent Recommender System
+- Multi-Tenant backend systems
 
-  Built for a business-matching use case - uses OpenAI LLMs for DB query generation from natural language.
-  FastAPI backend + MongoDB search with cron jobs to sync with Zapier tables.
-  Tech: Python, FastAPI, MongoDB, Docker
+  This is something I've worked on at my previous internship at [Nector](nector.io), building a multi tenant backend for a voice agent product.
+  Tech: Javascript, Cloudflare (D1, Workers)
 
 - [Concall Parser (OSS Package)](https://github.com/JS12540/concall-parser)
 
@@ -42,7 +43,7 @@ Released [concall-parser](https://pypi.org/project/concall-parser/) a while ago,
   480+ downloads. Built with test automation (pytest regressions) & CI on GitHub Actions.
   Tech: Python, LLMs, Regex, GitHub Actions
 
-There's other stuff that I've done - worked on durable executions, MCPs, memory and Docker optimizations.
+There's other stuff that I've done - worked on durable executions, MCPs, memory and Docker.
 
 ---
 
