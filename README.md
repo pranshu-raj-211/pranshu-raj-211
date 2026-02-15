@@ -7,7 +7,7 @@ I'm currently [looking for a new role](https://blog.pranshu-raj.in/hire-me/). Re
 
 
 I'm currently focused on:
-- Building a LSM tree db.
+- [Building a LSM tree db](https://blog.pranshu-raj.in/notes/database-plan/).
 - Evals.
 - Memory and profiling.
 
@@ -28,9 +28,11 @@ Released [concall-parser](https://pypi.org/project/concall-parser/) a while ago,
 
 - [Real-Time Leaderboard](https://github.com/pranshu-raj-211/leaderboard)
 
-  Send ranking updates to 28k+ concurrent SSE clients using Go, Redis Sorted Sets, and Prometheus.
+  Send ranking updates to 150k concurrent SSE clients using Go, Redis Sorted Sets, and Prometheus.
   Optimized Docker images(48x size reduction, 46% build time reduced), structured logs, and system metrics for observability.
   Tech: Go, Redis, Prometheus, Docker, Grafana, PostgreSQL
+
+  Currently working on TCP tuning, horizontal scaling and other resource optimizations at a lower level.
 
 - Multi-Tenant backend systems
 
