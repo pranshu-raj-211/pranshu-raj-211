@@ -59,8 +59,7 @@ There's other stuff that I've done - worked on durable executions, MCPs, memory 
 
 ### Others (used less frequently)
 - **Languages**: Javascript
-- **ML/Data**: PyTorch, Keras, Weights & Biases, Scikit-learn, SpaCy, PyTorch Geometric, Tensorflow
-- **Data Pipelines**: Airflow, Kafka
+- **ML/Data**: PyTorch, Keras, Weights & Biases, Scikit-learn, PyTorch Geometric
 - **Databases**: Cloudflare D1
 
 ---
