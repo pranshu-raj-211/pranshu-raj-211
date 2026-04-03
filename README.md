@@ -3,7 +3,7 @@
 I build backend systems and write.
 Previously worked on Python, Go, real time communication, infra, and AI.
 
-Most recently, I cleared the technical bar for a Winter SDE Internship at HackerRank (Jan-June 2026), which I was unfortunately unable to join due to university degree constraints. 
+Recently, I was selected for an SDE Internship at HackerRank (Jan-June 2026), which I was unfortunately unable to join. 
 
 I'm currently [looking for backend oriented roles](https://blog.pranshu-raj.in/hire-me/) where I can learn a lot, grow with a great team and get ownership of the things I build.
 
