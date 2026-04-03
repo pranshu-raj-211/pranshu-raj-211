@@ -10,8 +10,8 @@ I'm currently [looking for backend oriented roles](https://blog.pranshu-raj.in/h
 
 I'm currently focused on:
 - [Building a LSM tree db](https://blog.pranshu-raj.in/notes/database-plan/).
-- Evals.
-- Memory and profiling.
+- Concurrency (want to build an event loop in the future).
+- Memory, profiling and networking on Linux.
 
 [Check out my blog](https://blog.pranshu-raj.in)
 
